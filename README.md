@@ -1,7 +1,5 @@
 ## How to use Boring Avatars service
 
-To generate an avatar just embed following URL `https://avatar.tobi.sh/`. Now you can append a username to generate an avatar
-
 To generate a custom avatar just embed the following URL `https://img.boringavatars.com/` and append a variant, size and a username to generate a custom avatar.
 
 ### Custom variant
@@ -20,6 +18,16 @@ https://img.boringavatars.com/marble/120
 ```
 
 ![Avatar of 120px](https://img.boringavatars.com/marble/120)
+
+### Custom colors
+
+[TO DO]
+
+
+```
+https://img.boringavatars.com/marble/120/haykan
+```
+![Avatar for Hayk An](https://img.boringavatars.com/marble/120/haykan?colors=264653,2a9d8f,e9c46a,f4a261,e76f51)
 
 
 ### With name
