@@ -2,7 +2,8 @@
 
 To generate a custom avatar just embed the following URL `https://source.boringavatars.com/` and append a variant, size and a username to generate a custom avatar.
 
-### Custom variant
+### Variants
+You can use one of the variants `marble`, `beam`, `pixel`, `sunset`, `ring` or `bauhaus`. 
 
 ```
 https://source.boringavatars.com/marble
@@ -28,7 +29,7 @@ https://source.boringavatars.com/marble/120/haykan?colors=264653,2a9d8f,e9c46a,f
 ![Avatar for Hayk An](https://source.boringavatars.com/marble/120/haykan?colors=264653,2a9d8f,e9c46a,f4a261,e76f51)
 
 
-### With name
+### Name
 
 Each name will generate a unique `avatar`. Just replace `haykan` with an `username` or `email`
 
