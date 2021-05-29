@@ -44,7 +44,7 @@ You can use a `username`, `email` or any random text to generate a unique `avata
 
 
 ```
-https://source.boringavatars.com/marble/120/haykan
+https://source.boringavatars.com/marble/120/Maria%20Mitchell
 ```
 ![Avatar for Hayk An](https://source.boringavatars.com/marble/120/Maria%20Mitchell)
 
