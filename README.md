@@ -40,13 +40,13 @@ https://source.boringavatars.com/marble/120/haykan?colors=264653,2a9d8f,e9c46a,f
 
 ### Name
 
-Each name will generate a unique `avatar`. Just replace `haykan` with an `username` or `email`
+You can use a `username`, `email` or any random text to generate a unique `avatar`. 
 
 
 ```
 https://source.boringavatars.com/marble/120/haykan
 ```
-![Avatar for Hayk An](https://source.boringavatars.com/marble/120/haykan)
+![Avatar for Hayk An](https://source.boringavatars.com/marble/120/Maria%20Mitchell)
 
 
 ### Random avatar
