@@ -14,11 +14,20 @@ https://source.boringavatars.com/marble
 ### Custom size
 
 ```
-https://img.boringavatars.com/marble/120
+https://source.boringavatars.com/ring/80
 
 ```
 
-![Avatar of 120px](https://source.boringavatars.com/marble/120)
+![Avatar of 120px](https://source.boringavatars.com/ring/80)
+
+
+```
+https://source.boringavatars.com/ring/160
+
+```
+
+![Avatar of 120px](https://source.boringavatars.com/ring/120)
+
 
 ### Custom colors
 You can pass an array of colors using the parameter `color` 
