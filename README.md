@@ -14,19 +14,19 @@ https://source.boringavatars.com/marble
 ### Custom size
 
 ```
-https://source.boringavatars.com/ring/80
+https://source.boringavatars.com/marble/40
 
 ```
 
-![Avatar of 120px](https://source.boringavatars.com/ring/80)
+![Avatar of 120px](https://source.boringavatars.com/marble/40)
 
 
 ```
-https://source.boringavatars.com/ring/160
+https://source.boringavatars.com/marble/160
 
 ```
 
-![Avatar of 120px](https://source.boringavatars.com/ring/120)
+![Avatar of 120px](https://source.boringavatars.com/marble/120)
 
 
 ### Custom colors
