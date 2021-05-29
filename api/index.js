@@ -25,7 +25,7 @@ const app = require('express')();
 app.get('/:variant?/:size?/:name?', (req, res) => {
     const { variant = DEFAULT_VARIANT, size = DEFAULT_SIZE } = req.params
     const name = req.query.name || req.params.name || Math.random().toString();
-    const colors = normalizeColors(req.query.colors);
+    const colors = normalizeColors(req.query.colors || []);
 
     if (!VALID_VARIANTS.has(variant)) {
         return res.status(400).send('Invalid variant');
