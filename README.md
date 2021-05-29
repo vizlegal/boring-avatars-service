@@ -6,10 +6,10 @@ To generate a custom avatar just embed the following URL `https://source.boringa
 You can use one of the variants `marble`, `beam`, `pixel`, `sunset`, `ring` or `bauhaus`. 
 
 ```
-https://source.boringavatars.com/marble
+https://source.boringavatars.com/beam
 ```
 
-![Avatar using marble variant](https://source.boringavatars.com/marble)
+![Avatar using marble variant](https://source.boringavatars.com/beam)
 
 ### Custom size
 
