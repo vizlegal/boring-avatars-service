@@ -20,7 +20,7 @@ https://img.boringavatars.com/marble/120
 ![Avatar of 120px](https://source.boringavatars.com/marble/120)
 
 ### Custom colors
-You can pass an array of colors using the `color` params
+You can pass an array of colors using the parameter `color` 
 
 ```
 https://source.boringavatars.com/marble/120/haykan?colors=264653,2a9d8f,e9c46a,f4a261,e76f51
