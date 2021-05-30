@@ -33,9 +33,9 @@ https://source.boringavatars.com/marble/160
 You can pass an array of colors using the parameter `color` 
 
 ```
-https://source.boringavatars.com/marble/120/haykan?colors=264653,2a9d8f,e9c46a,f4a261,e76f51
+https://source.boringavatars.com/marble/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51
 ```
-![Avatar for Hayk An](https://source.boringavatars.com/marble/120/haykan?colors=264653,2a9d8f,e9c46a,f4a261,e76f51)
+![Avatar for Maria Mitchell](https://source.boringavatars.com/marble/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51)
 
 
 ### Name
@@ -46,7 +46,7 @@ You can use a `username`, `email` or any random text to generate a unique `avata
 ```
 https://source.boringavatars.com/marble/120/Maria%20Mitchell
 ```
-![Avatar for Hayk An](https://source.boringavatars.com/marble/120/Maria%20Mitchell)
+![Avatar for Maria Mitchell](https://source.boringavatars.com/marble/120/Maria%20Mitchell)
 
 
 ### Random avatar
