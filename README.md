@@ -37,6 +37,14 @@ https://source.boringavatars.com/marble/120/Maria%20Mitchell?colors=264653,2a9d8
 ```
 ![Avatar for Maria Mitchell](https://source.boringavatars.com/marble/120/Maria%20Mitchell?colors=264653,2a9d8f,e9c46a,f4a261,e76f51)
 
+### Square avatars
+Use the parameter `square` to get square-shaped avatars. 
+
+```
+https://source.boringavatars.com/marble/120/Maria%20Mitchell?square
+```
+![Square avatar for Maria Mitchell](https://source.boringavatars.com/marble/120/Maria%20Mitchell?square)
+
 
 ### Name
 
