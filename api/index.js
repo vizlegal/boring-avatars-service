@@ -20,11 +20,15 @@ function normalizeColors(colors) {
 
 const app = require('express')();
 
+app.get('/favicon.ico', (req, res) => { 
+    res.sendStatus(204);
+});
+
 app.get('/:variant?/:size?/:name?', (req, res) => {
     const { variant = DEFAULT_VARIANT, size = DEFAULT_SIZE } = req.params
     const name = req.query.name || req.params.name || Math.random().toString();
-    console.log(req.query.colors);
     const colors = normalizeColors(req.query.colors || DEFAULT_COLORS);
+    const square = req.query.hasOwnProperty('square');
 
     if (!VALID_VARIANTS.has(variant)) {
         return res.status(400).send('Invalid variant');
@@ -39,6 +43,7 @@ app.get('/:variant?/:size?/:name?', (req, res) => {
             name,
             variant,
             colors,
+            square,
         }, null)
     );
 
@@ -50,4 +55,3 @@ const port = process.env.PORT || 3000;
 app.listen(port, () => {
     console.log(`Server running on ${port}, http://localhost:${port}`);
 });
-
